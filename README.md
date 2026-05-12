@@ -1,2 +1,15 @@
 # aigon-google-ai-hackathon
-Enterprise-grade autonomous agent system on Vertex AI with 413 agents coordinating ML pipelines through quality gates. Meta-optimizer reduces training costs by 40% through intelligent resource allocation.
+
+> AIGON autonomous submission — v4.0
+
+## Architecture
+413-agent swarm → 42 Quality Gates → Meta-learning → Auto-submit
+
+## CI/CD
+GitHub Actions: quality gates on push
+
+## Tests
+
+
+## License
+MIT — AIGON Enterprise
